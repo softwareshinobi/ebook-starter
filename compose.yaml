@@ -1,10 +1,10 @@
 services:
 
-    lorem-ipsum-dolor-sit:
+    minimal-markdown-ebook:
 
-        container_name: lorem-ipsum-dolor-sit
+        container_name: minimal-markdown-ebook
 
-        image: softwareshinobi/consectetur-adipiscing-ebook
+        image: softwareshinobi/minimal-markdown-ebook
 
         build:
 
